@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://o-a-4344f43c.zappy5.app
+https://example.com
 חנות סקווישים אונליין עם מיסתורין והפתעות! שחקו במשחק המישוש הווירטואלי, הרגישו את הרכות ובחרו מיסטרי בוקס עם 3 סקווישים מפתיעים. כניסה לעולם של גילוי חושי וכיף אינסופי לילדים.
 
 ### תודה שפניתם אלינו
-https://o-a-4344f43c.zappy5.app/thank-you
+https://example.com/thank-you
 O&A - ה - סקווישים! - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://o-a-4344f43c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://o-a-4344f43c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://o-a-4344f43c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://o-a-4344f43c.zappy5.app
-- Endpoint: https://o-a-4344f43c.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -67,6 +67,6 @@ E-commerce / Toys & Children's Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://o-a-4344f43c.zappy5.app/sitemap.xml
-- Robots: https://o-a-4344f43c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://o-a-4344f43c.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

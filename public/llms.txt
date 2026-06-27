@@ -1,0 +1,72 @@
+# O&A - ה - סקווישים! — Generative Engine Optimization Map
+
+> A fun and mysterious online store for kids selling squishies — soft, tactile toys with a blind-bag concept where the excitement lies in the unknown. The store features four product types including a surprise 'Mystery Box' with 3 unknown squishies. The brand identity revolves around secrecy, discovery, and sensory fun. A standout interactive feature is a haptic/visual simulation game on mobile that lets kids 'feel' the squishies before buying, enhancing the playful and immersive shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://o-a-4344f43c.zappy5.app
+חנות סקווישים אונליין עם מיסתורין והפתעות! שחקו במשחק המישוש הווירטואלי, הרגישו את הרכות ובחרו מיסטרי בוקס עם 3 סקווישים מפתיעים. כניסה לעולם של גילוי חושי וכיף אינסופי לילדים.
+
+### תודה שפניתם אלינו
+https://o-a-4344f43c.zappy5.app/thank-you
+O&A - ה - סקווישים! - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://o-a-4344f43c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://o-a-4344f43c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://o-a-4344f43c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://o-a-4344f43c.zappy5.app
+- Endpoint: https://o-a-4344f43c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About O&A - ה - סקווישים!
+A fun and mysterious online store for kids selling squishies — soft, tactile toys with a blind-bag concept where the excitement lies in the unknown. The store features four product types including a surprise 'Mystery Box' with 3 unknown squishies. The brand identity revolves around secrecy, discovery, and sensory fun. A standout interactive feature is a haptic/visual simulation game on mobile that lets kids 'feel' the squishies before buying, enhancing the playful and immersive shopping experience.
+
+## Target Audience
+- ילדים
+- ילדים אספנים
+- הורים מחפשי מתנות
+- חובבי איסוף צעצועים
+- ילדים בקשיי קשב וריכוז
+
+## Industry
+E-commerce / Toys & Children's Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://o-a-4344f43c.zappy5.app/sitemap.xml
+- Robots: https://o-a-4344f43c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://o-a-4344f43c.zappy5.app/llms-full.txt
